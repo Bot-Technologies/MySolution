@@ -10,7 +10,14 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "id": "032eef23-e19c-446b-bc6b-3b05dea566bf",
+ 			"name": "mysolution.w1",
+			"publisher": "Bot Technologies",
+ 			"version": "1.1.0.0"
+    } 
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
